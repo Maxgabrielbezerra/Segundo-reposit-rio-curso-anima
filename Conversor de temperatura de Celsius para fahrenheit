@@ -1,0 +1,3 @@
+C= float(input('informe a temperatura em graus celsius'))
+F= ((9*C)/5)+32
+print (f'a temperatura de {C} graus Celsius equivale a {F}º')
